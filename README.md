@@ -1,1 +1,58 @@
-# 🛍️ StoreCraft & Stripe E-Commerce — Plataforma de comercio electrónico moderna, de alto rendimiento y segura. [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Stripe](https://img.shields.io/badge/Stripe-6265E9?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/) --- ## 🚀 Sobre el Proyecto: **StoreCraft** es una aplicación web de comercio electrónico desarrollada con arquitecturas limpias y modulares. Diseñada para ofrecer una experiencia de usuario (UX) fluida y reactiva, integra un catálogo dinámico con filtrado avanzado, gestión de carrito de compras en tiempo real y pasarela de pagos segura impulsada por **Stripe**. --- ## 💎 Características Principales: * **Arquitectura Modular:** Estructurada bajo principios de Clean Code y separación de responsabilidades por *features*. * **Catálogo Dinámico & Filtros:** Búsqueda en tiempo real y categorización de productos de alto rendimiento. * **Gestión de Estado Robusta:** Carrito interactivo optimizado con tipado estricto en TypeScript. * **Pasarela de Pagos (Stripe):** Integración segura para procesamiento de transacciones. * **Diseño UI/UX Moderno:** Interfaces adaptables construidas con Tailwind CSS y componentes visuales estilizados. --- ## 🛠️ Stack Tecnológico: * **Frontend:** React, TypeScript, Vite. * **Estilos:** Tailwind CSS. * **Pagos:** Stripe API / SDK. * **Control de Versiones:** Git & GitHub. * **Despliegue:** Vercel. --- ## ⚙️ Instalación y Configuración Local: Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local: 1. **Clona el repositorio:** `git clone https://github.com/Enrique-cv09/ecommerce-stripe.git` 2. **Entra al directorio del proyecto:** `cd ecommerce-stripe` 3. **Instala las dependencias:** `npm install` 4. **Configura tus variables de entorno:** Crea un archivo `.env` en la raíz del proyecto y añade tu llave pública de Stripe: `VITE_STRIPE_PUBLIC_KEY=tu_clave_publica_de_stripe` 5. **Ejecuta el servidor de desarrollo:** `npm run dev` --- ## 👤 Autor: Desarrollado con pasión y arquitectura limpia por **Enrique (Gomis)**, *Ingeniero en Desarrollo y Gestión de Software*. 🌐 [GitHub Portfolio](https://github.com/Enrique-cv09)
+Markdown
+# 🛍️ StoreCraft & Stripe E-Commerce
+### *Plataforma de comercio electrónico moderna, de alto rendimiento y segura.*
+> 💡 **Nota de simulación:** Este proyecto es una aplicación de demostración desarrollada estrictamente con fines de portafolio y exhibición técnica. Las transacciones y catálogos utilizan datos de prueba y no representan un comercio electrónico real.
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-6265E9?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
+
+---
+
+## 🚀 Sobre el Proyecto
+**StoreCraft** es una aplicación web de comercio electrónico desarrollada con arquitecturas limpias y modulares. Diseñada para ofrecer una experiencia de usuario (UX) fluida y reactiva, integra un catálogo dinámico con filtrado avanzado, gestión de carrito de compras en tiempo real y pasarela de pagos segura impulsada por **Stripe**.
+
+---
+
+## 💎 Características Principales
+* **Arquitectura Modular:** Estructurada bajo principios de Clean Code y separación de responsabilidades por *features*.
+* **Catálogo Dinámico & Filtros:** Búsqueda en tiempo real y categorización de productos de alto rendimiento.
+* **Gestión de Estado Robusta:** Carrito interactivo optimizado con tipado estricto en TypeScript.
+* **Pasarela de Pagos (Stripe):** Integración segura para procesamiento de transacciones.
+* **Diseño UI/UX Moderno:** Interfaces adaptables construidas con Tailwind CSS y componentes visuales estilizados.
+
+---
+
+## 🛠️ Stack Tecnológico
+* **Frontend:** React, TypeScript, Vite
+* **Estilos:** Tailwind CSS
+* **Pagos:** Stripe API / SDK
+* **Control de Versiones:** Git & GitHub
+* **Despliegue:** Vercel
+
+---
+
+## ⚙️ Instalación y Configuración Local
+Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
+
+1. **Clona el repositorio:**
+git clone [https://github.com/Enrique-cv09/ecommerce-stripe.git](https://github.com/Enrique-cv09/ecommerce-stripe.git)
+Entra al directorio del proyecto:
+cd ecommerce-stripe
+Instala las dependencias:
+npm install
+Configura tus variables de entorno:
+Crea un archivo .env en la raíz del proyecto y añade tu llave pública de Stripe:
+
+VITE_STRIPE_PUBLIC_KEY=tu_clave_publica_de_stripe
+Ejecuta el servidor de desarrollo:
+
+npm run dev
+
+
+👤 Autor
+Desarrollado con pasión y arquitectura limpia por Enrique (Gomis)
+Ingeniero en Desarrollo y Gestión de Software
+

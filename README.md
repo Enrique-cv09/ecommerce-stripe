@@ -33,26 +33,24 @@ Markdown
 * **Despliegue:** Vercel
 
 ---
-
 ## ⚙️ Instalación y Configuración Local
+
 Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
-1. **Clona el repositorio:**
-git clone [https://github.com/Enrique-cv09/ecommerce-stripe.git](https://github.com/Enrique-cv09/ecommerce-stripe.git)
-Entra al directorio del proyecto:
-cd ecommerce-stripe
-Instala las dependencias:
-npm install
-Configura tus variables de entorno:
-Crea un archivo .env en la raíz del proyecto y añade tu llave pública de Stripe:
+1. Clona el repositorio ejecutando: git clone https://github.com/Enrique-cv09/ecommerce-stripe.git
 
-VITE_STRIPE_PUBLIC_KEY=tu_clave_publica_de_stripe
-Ejecuta el servidor de desarrollo:
+2. Entra al directorio del proyecto ejecutando: cd ecommerce-stripe
 
-npm run dev
+3. Instala las dependencias ejecutando: npm install
 
+4. Configura tus variables de entorno creando un archivo .env en la raíz del proyecto con tu llave pública: VITE_STRIPE_PUBLIC_KEY=tu_clave_publica_de_stripe
 
-👤 Autor
-Desarrollado con pasión y arquitectura limpia por Enrique (Gomis)
-Ingeniero en Desarrollo y Gestión de Software
+5. Ejecuta el servidor de desarrollo con: npm run dev
+
+---
+
+## 👤 Autor
+
+Desarrollado con pasión y arquitectura limpia por **Enrique (Gomis)**  
+*Ingeniero en Desarrollo y Gestión de Software*
 
